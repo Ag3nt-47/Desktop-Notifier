@@ -6,7 +6,7 @@ notification_description = "Hmm bunu okuduğuna göre demekki kod çalışıyor.
 notification.notify(
     title = notification_title,
     message = notification_description,
-    app_icon = trojan.jpg,
+    app_icon = "trojan.jpg",
     timeout = 5,
     toast = False
 )
